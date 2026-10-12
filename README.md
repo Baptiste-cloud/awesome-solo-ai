@@ -284,6 +284,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 **Research what to build**
 - [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
+- [LaunchSpy](https://launchspy.io) — tracks the Meta ads of course creators, coaches and community owners, with the funnel each ad sends to and the tools behind it; MCP server on paid plans. 🧩 🆓
 
 **Where to launch**
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
